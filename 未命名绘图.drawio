@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-49" edge="1" parent="1" source="vdfc9fIAfK0tg-INYqd_-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vdfc9fIAfK0tg-INYqd_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
           <mxGeometry height="270" width="610" x="170" y="100" as="geometry" />
         </mxCell>
@@ -41,7 +44,7 @@
           <mxGeometry height="324" width="100" x="30" y="396" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;施工人机协作对工人心理疲劳的作用机制&lt;/span&gt;" vertex="1">
-          <mxGeometry height="60" width="370" x="300" y="390" as="geometry" />
+          <mxGeometry height="50" width="370" x="300" y="393" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-36" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-28">
           <mxGeometry relative="1" as="geometry" />
