@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="G_Jfwai1TmLjxf3G4dvd">
+    <mxGraphModel dx="2046" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="vdfc9fIAfK0tg-INYqd_-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="610" x="170" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vdfc9fIAfK0tg-INYqd_-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="270" width="100" x="30" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vdfc9fIAfK0tg-INYqd_-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;研究方法/技术&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="140" x="12" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vdfc9fIAfK0tg-INYqd_-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;研究内容&lt;/font&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="415" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="vdfc9fIAfK0tg-INYqd_-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;施工人机协作下工人心理疲劳理论框架&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="370" x="300" y="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
