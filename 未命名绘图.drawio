@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="G_Jfwai1TmLjxf3G4dvd">
-    <mxGraphModel dx="1169" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1411" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -428,11 +428,17 @@
         <mxCell id="nhjCerwKHe1wt6-sGEfE-200" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="影响因素引入" vertex="1">
           <mxGeometry height="30" width="110" x="359" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-206" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-201" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-202">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-201" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="主动-被动疲劳双路径建模" vertex="1">
           <mxGeometry height="50" width="110" x="487.75" y="279" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-202" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="演化与调节框架建立" vertex="1">
           <mxGeometry height="50" width="110" x="617" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-205" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-200" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.529;entryDx=0;entryDy=0;entryPerimeter=0;" target="nhjCerwKHe1wt6-sGEfE-201">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
