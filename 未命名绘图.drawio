@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="G_Jfwai1TmLjxf3G4dvd">
-    <mxGraphModel dx="1169" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2046" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -207,7 +207,7 @@
           <mxGeometry height="50" width="125.5" x="420" y="910" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-83" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="260" width="610" x="173.5" y="990" as="geometry" />
+          <mxGeometry height="240" width="610" x="173.5" y="990" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-84" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;基于认知负荷状态与心理疲劳的人机协作调节策略方法&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="492" x="231" y="990" as="geometry" />
@@ -215,54 +215,164 @@
         <mxCell id="nhjCerwKHe1wt6-sGEfE-104" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="nhjCerwKHe1wt6-sGEfE-95">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="338.5" y="1076" />
-              <mxPoint x="477" y="1076" />
+              <mxPoint x="338.5" y="1073" />
+              <mxPoint x="477" y="1073" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-91" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="决策关键状态变量确定" vertex="1">
-          <mxGeometry height="30" width="205" x="243.5" y="1040" as="geometry" />
+          <mxGeometry height="30" width="205" x="243.5" y="1037" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-106" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-95">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="608.52" y="1076" />
-              <mxPoint x="477" y="1076" />
+              <mxPoint x="608.52" y="1073" />
+              <mxPoint x="477" y="1073" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-92" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="人机协作调节策略模型建立" vertex="1">
-          <mxGeometry height="30" width="205" x="506" y="1040" as="geometry" />
+          <mxGeometry height="30" width="205" x="506" y="1037" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-122" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="477" y="1177" />
+              <mxPoint x="353.52" y="1177" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-94" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="78" width="535" x="209.5" y="1090" as="geometry" />
+          <mxGeometry height="78" width="535" x="209.5" y="1087" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-95" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;" value="多维度联合调节策略建模" vertex="1">
-          <mxGeometry height="40" width="270" x="342" y="1089" as="geometry" />
+          <mxGeometry height="40" width="270" x="342" y="1086" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-96" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-99">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nhjCerwKHe1wt6-sGEfE-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="多模态信息采集" vertex="1">
-          <mxGeometry height="30" width="135" x="365.5" y="1129" as="geometry" />
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-97" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="调节决策权确定" vertex="1">
+          <mxGeometry height="30" width="135" x="360.5" y="1126" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-98" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-100">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nhjCerwKHe1wt6-sGEfE-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="数据预处理" vertex="1">
-          <mxGeometry height="30" width="110" x="514.25" y="1129" as="geometry" />
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="调节时机确定" vertex="1">
+          <mxGeometry height="30" width="110" x="509.25" y="1126" as="geometry" />
         </mxCell>
-        <mxCell id="nhjCerwKHe1wt6-sGEfE-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="特征提取" vertex="1">
-          <mxGeometry height="30" width="90" x="638" y="1129" as="geometry" />
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="调节对象确定" vertex="1">
+          <mxGeometry height="30" width="100" x="633" y="1126" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-101" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nhjCerwKHe1wt6-sGEfE-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="监测方法构建" vertex="1">
-          <mxGeometry height="30" width="125.5" x="226" y="1129" as="geometry" />
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-102" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="调节必要性判断" vertex="1">
+          <mxGeometry height="30" width="125.5" x="221" y="1126" as="geometry" />
         </mxCell>
-        <mxCell id="nhjCerwKHe1wt6-sGEfE-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="调节必要性判断方法构建" vertex="1">
-          <mxGeometry height="30" width="205" x="160.5" y="1430" as="geometry" />
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-111" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="nhjCerwKHe1wt6-sGEfE-107">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-103" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="人机协作调节策略库构建" vertex="1">
+          <mxGeometry height="30" width="205" x="251" y="1189" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-107" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="调节自干扰评估与优化" vertex="1">
+          <mxGeometry height="30" width="181.25" x="510.5" y="1189" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-123" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="260" width="100" x="38" y="712" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-124" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="240" width="100" x="38" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-126" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=default;fillColor=none;strokeColor=none;" value="文献综述法&lt;div&gt;实验研究法&lt;/div&gt;&lt;div&gt;统计分析法&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="30" y="523" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-127" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=default;fillColor=none;strokeColor=none;" value="文献综述法&lt;div&gt;实地考察法&lt;/div&gt;&lt;div&gt;理论分析法&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="110" x="31" y="187" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-129" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=default;fillColor=none;strokeColor=none;" value="文献综述法&lt;div&gt;实验研究法&lt;/div&gt;&lt;div&gt;传感器技术&lt;/div&gt;&lt;div&gt;计算机视觉&lt;/div&gt;&lt;div&gt;多模态融合&lt;/div&gt;&lt;div&gt;机器人技术&lt;/div&gt;" vertex="1">
+          <mxGeometry height="134" width="110" x="33" y="776" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-130" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=default;fillColor=none;strokeColor=none;" value="文献综述法&lt;div&gt;实验研究法&lt;/div&gt;&lt;div&gt;构建模型法&lt;/div&gt;&lt;div&gt;多目标优化&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="134" width="110" x="31" y="1050" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-131" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="240" width="610" x="172.5" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-132" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;人机协作调节策略与系统验证&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="50" width="492" x="230" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-133" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="nhjCerwKHe1wt6-sGEfE-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="337.5" y="1333" />
+              <mxPoint x="476" y="1333" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-134" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="决策关键状态变量确定" vertex="1">
+          <mxGeometry height="30" width="205" x="242.5" y="1297" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-135" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-139">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="607.52" y="1333" />
+              <mxPoint x="476" y="1333" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-136" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="人机协作调节策略模型建立" vertex="1">
+          <mxGeometry height="30" width="205" x="505" y="1297" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-137" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-148">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="476" y="1437" />
+              <mxPoint x="352.52" y="1437" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-138" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="78" width="535" x="208.5" y="1347" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-139" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;" value="多维度联合调节策略建模" vertex="1">
+          <mxGeometry height="40" width="270" x="341" y="1346" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-140" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-141" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="调节决策权确定" vertex="1">
+          <mxGeometry height="30" width="135" x="359.5" y="1386" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-142" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-144">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-143" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="调节时机确定" vertex="1">
+          <mxGeometry height="30" width="110" x="508.25" y="1386" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-144" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="调节对象确定" vertex="1">
+          <mxGeometry height="30" width="100" x="632" y="1386" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-145" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-141">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-146" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="调节必要性判断" vertex="1">
+          <mxGeometry height="30" width="125.5" x="220" y="1386" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-147" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="nhjCerwKHe1wt6-sGEfE-149">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-148" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="人机协作调节策略库构建" vertex="1">
+          <mxGeometry height="30" width="205" x="250" y="1449" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-149" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="调节自干扰评估与优化" vertex="1">
+          <mxGeometry height="30" width="181.25" x="509.5" y="1449" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-150" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="240" width="100" x="37" y="1250" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-151" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=default;fillColor=none;strokeColor=none;" value="文献综述法&lt;div&gt;实验研究法&lt;/div&gt;&lt;div&gt;构建模型法&lt;/div&gt;&lt;div&gt;多目标优化&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="134" width="110" x="30" y="1310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
