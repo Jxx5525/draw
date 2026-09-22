@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="G_Jfwai1TmLjxf3G4dvd">
-    <mxGraphModel dx="1705" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2046" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,7 +119,7 @@
           <mxGeometry height="30" width="150" x="570" y="661" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-50" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="324" width="610" x="170" y="730" as="geometry" />
+          <mxGeometry height="260" width="610" x="170" y="730" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-51" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;基于多模态融合的认知负荷状态与心理疲劳监测方法&lt;/span&gt;" vertex="1">
           <mxGeometry height="50" width="475" x="237.5" y="730" as="geometry" />
@@ -130,35 +130,66 @@
         <mxCell id="nhjCerwKHe1wt6-sGEfE-53" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="多模态监测要求与指标确定" vertex="1">
           <mxGeometry height="30" width="205" x="245" y="780" as="geometry" />
         </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-67" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="602.51" y="820" />
+              <mxPoint x="476" y="820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-55" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="多模态监测评价体系建立" vertex="1">
           <mxGeometry height="30" width="205" x="500" y="780" as="geometry" />
         </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-82" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-68">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="476.03" y="920" />
+              <mxPoint x="312.79" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-57" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="78" width="535" x="208.5" y="831" as="geometry" />
+          <mxGeometry height="78" width="535" x="208.5" y="833" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;" value="面向施工现场的多模态监测方法" vertex="1">
-          <mxGeometry height="40" width="270" x="341" y="830" as="geometry" />
+          <mxGeometry height="40" width="270" x="341" y="832" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-65" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="多模态信息采集" vertex="1">
-          <mxGeometry height="30" width="135" x="364.5" y="870" as="geometry" />
+          <mxGeometry height="30" width="135" x="364.5" y="872" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-66" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-60" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="数据预处理" vertex="1">
-          <mxGeometry height="30" width="110" x="513.25" y="870" as="geometry" />
+          <mxGeometry height="30" width="110" x="513.25" y="872" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="特征提取" vertex="1">
-          <mxGeometry height="30" width="90" x="637" y="870" as="geometry" />
+          <mxGeometry height="30" width="90" x="637" y="872" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-64" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-59">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-63" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="监测方法构建" vertex="1">
-          <mxGeometry height="30" width="125.5" x="225" y="870" as="geometry" />
+          <mxGeometry height="30" width="125.5" x="225" y="872" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-72" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="nhjCerwKHe1wt6-sGEfE-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-68" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="多模态特征融合" vertex="1">
+          <mxGeometry height="30" width="125.5" x="250" y="938" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-70" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="心理疲劳分类与分级模型建立" vertex="1">
+          <mxGeometry height="50" width="125.5" x="585" y="928" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-73" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="nhjCerwKHe1wt6-sGEfE-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="认知负荷状态连续估计模型建立" vertex="1">
+          <mxGeometry height="50" width="125.5" x="414" y="928" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
