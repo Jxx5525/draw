@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="G_Jfwai1TmLjxf3G4dvd">
-    <mxGraphModel dx="2046" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1705" dy="950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -20,16 +20,58 @@
           <mxGeometry height="60" width="370" x="300" y="94" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="186" width="120" x="190" y="154" as="geometry" />
+          <mxGeometry height="206" width="120" x="190" y="154" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=default;fillColor=none;strokeColor=none;" value="施工心理疲劳相关概念界定" vertex="1">
-          <mxGeometry height="60" width="110" x="195" y="150" as="geometry" />
+          <mxGeometry height="60" width="110" x="195" y="157" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="施工场景人机协作特点" vertex="1">
-          <mxGeometry height="50" width="90" x="205" y="210" as="geometry" />
+          <mxGeometry height="50" width="90" x="205" y="217" as="geometry" />
         </mxCell>
         <mxCell id="nhjCerwKHe1wt6-sGEfE-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="不同认知负荷状态与心理疲劳区分" vertex="1">
-          <mxGeometry height="60" width="90" x="205" y="270" as="geometry" />
+          <mxGeometry height="70" width="90" x="205" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="206" width="290" x="330" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="270" width="610" x="170" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" value="" vertex="1">
+          <mxGeometry height="270" width="100" x="30" y="396" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;施工人机协作对工人心理疲劳的作用机制&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="370" x="300" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="78" width="535" x="205" y="442" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-26" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="影响路径建模" vertex="1">
+          <mxGeometry height="30" width="150" x="400" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;" value="影响因素体系构建与理论假设提出" vertex="1">
+          <mxGeometry height="40" width="270" x="337.5" y="442" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-25" edge="1" parent="1" source="nhjCerwKHe1wt6-sGEfE-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nhjCerwKHe1wt6-sGEfE-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="影响因素识别与初筛" vertex="1">
+          <mxGeometry height="30" width="150" x="230" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="理论假设提出" vertex="1">
+          <mxGeometry height="30" width="150" x="570" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="70" width="535" x="205" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-28" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fillColor=none;strokeColor=none;" value="多因素人机协作心理疲劳实验" vertex="1">
+          <mxGeometry height="40" width="270" x="337.5" y="545" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-29" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="场景选择与实验设计" vertex="1">
+          <mxGeometry height="30" width="150" x="230" y="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
