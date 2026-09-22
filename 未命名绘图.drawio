@@ -17,7 +17,19 @@
           <mxGeometry height="60" width="120" x="415" y="40" as="geometry" />
         </mxCell>
         <mxCell id="vdfc9fIAfK0tg-INYqd_-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;" value="&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;施工人机协作下工人心理疲劳理论框架&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="370" x="300" y="110" as="geometry" />
+          <mxGeometry height="60" width="370" x="300" y="94" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="186" width="120" x="190" y="154" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=default;fillColor=none;strokeColor=none;" value="施工心理疲劳相关概念界定" vertex="1">
+          <mxGeometry height="60" width="110" x="195" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="施工场景人机协作特点" vertex="1">
+          <mxGeometry height="50" width="90" x="205" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="不同认知负荷状态与心理疲劳区分" vertex="1">
+          <mxGeometry height="60" width="90" x="205" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
