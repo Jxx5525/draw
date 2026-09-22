@@ -425,6 +425,15 @@
         <mxCell id="nhjCerwKHe1wt6-sGEfE-199" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;fontColor=default;fillColor=none;strokeColor=none;" value="施工人机协作心理疲劳理论模型" vertex="1">
           <mxGeometry height="30" width="229" x="428.25" y="249" as="geometry" />
         </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-200" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="影响因素引入" vertex="1">
+          <mxGeometry height="30" width="110" x="359" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-201" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="主动-被动疲劳双路径建模" vertex="1">
+          <mxGeometry height="50" width="110" x="487.75" y="279" as="geometry" />
+        </mxCell>
+        <mxCell id="nhjCerwKHe1wt6-sGEfE-202" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" value="演化与调节框架建立" vertex="1">
+          <mxGeometry height="50" width="110" x="617" y="279" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
